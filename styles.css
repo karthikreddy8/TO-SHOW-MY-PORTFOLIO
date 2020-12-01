@@ -1,0 +1,135 @@
+:root{
+    --primary-color:#6C63FF;
+    --off-white:#F3F4F6;
+    --hero-color:#E5E7EB;
+    
+}
+ /* fonts */
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,400;1,700&display=swap');
+
+ body{
+    font-family: 'Montserrat', sans-serif;
+ }
+ /* contener */
+ .contener{
+    padding-left: 1rem ;
+    padding-right: 1rem;
+    padding-bottom: 4rem;
+}
+ .contener-fluid{
+    max-width: 600px;
+    margin: auto;
+    color: gray;
+ }
+/* links */
+
+ .primary-link{
+    text-decoration: none;
+ }
+ .seccandery-link{
+    color: var(--primary-color);
+    border-radius: 0.5rem;
+    border: 1px solid var(--primary-color);
+ }
+ /* list */
+ .list-non-bullet{
+    list-style: none;
+    text-align: right;
+ }
+ .list-non-bullets{
+    list-style: none;
+ }
+  .list-item-inline{
+     display:inline;
+    padding: 0rem 0.60rem;
+}
+
+/* header */
+.coding{
+    padding: 2rem;
+    text-align: center;
+    padding-top: 6rem;
+    /* background: var(--off-white); */
+}
+.coding .coding-img{
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+.coding-heading{
+    padding-top: 2rem;
+}
+
+.coding4{
+    color: var(--primary-color);
+}
+/* section */
+ h2{
+    text-align: center;
+    padding: 2rem;
+}
+
+ .ow{
+    background-color:var(--hero-color);
+   
+
+}
+body{
+    max-width: 600px;
+    margin: auto;
+}
+.projects{
+    background-color:#93C5FD ;
+}
+
+
+  
+
+
+/* color */
+
+h1{
+    color:#6C63FF
+}
+.karthik{
+    color:#6C63FF;
+    font-size: 1rem;
+    background: var(--hero-color);
+    padding-top: 2rem;
+    border-bottom-left-radius: 1.6rem;
+    font-weight: bold;
+}
+.iamdeveloper{
+    color:gray
+}
+.white{
+    color: white;
+  
+}
+.white1{
+    color: white;
+    font-weight: bold;
+}
+.background{
+    background-color:#6C63FF ;
+
+}
+.link{
+    color:white;
+    font-size: 1.3rem;
+   line-height: 1cm;
+} 
+
+.navigation{
+    color: var(--primary-color);
+    font-size: 1.3rem;
+    text-decoration: none;
+    
+   
+}
+.kart{
+    color: white;
+    text-decoration: none;
+}
+
+
