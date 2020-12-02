@@ -25,11 +25,17 @@
 
  .primary-link{
     text-decoration: none;
+    color:white;
+    border-radius: 0.5rem;
+    background-color: var(--primary-color);
+
+    
  }
  .seccandery-link{
     color: var(--primary-color);
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
+    text-decoration: none;
  }
  /* list */
  .list-non-bullet{
@@ -79,7 +85,7 @@ body{
     margin: auto;
 }
 .projects{
-    background-color:#93C5FD ;
+    background-color#93C5FD ;
 }
 
 
