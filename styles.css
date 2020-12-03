@@ -28,6 +28,7 @@
     color:white;
     border-radius: 0.5rem;
     background-color: var(--primary-color);
+    list-style: none;
 
     
  }
@@ -137,5 +138,7 @@ h1{
     color: white;
     text-decoration: none;
 }
+
+
 
 
