@@ -37,6 +37,7 @@
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
     text-decoration: none;
+    width: 1rem;
  }
  /* list */
  .list-non-bullet{
@@ -45,6 +46,8 @@
  }
  .list-non-bullets{
     list-style: none;
+    padding: 2rem 7rem;
+    width: auto;
  }
   .list-item-inline{
      display:inline;
@@ -125,6 +128,7 @@ h1{
     color:white;
     font-size: 1.3rem;
    line-height: 1cm;
+   width: 3vh;
 } 
 
 .navigation{
