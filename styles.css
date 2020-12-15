@@ -142,7 +142,12 @@ h1{
     color: white;
     text-decoration: none;
 }
-
+.blogs{
+    text-decoration: none;
+    list-style: none;
+    padding: 1rem 1.5rem;
+    margin: 1rem;
+}
 
 
 
